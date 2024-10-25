@@ -1,4 +1,9 @@
 this is my first file in my new git repo
 make some changes
+
 ********
 ***********
+
+a new line
+add a image
+
