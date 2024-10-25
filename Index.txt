@@ -1,2 +1,3 @@
 this is my first file in my new git repo
 make some changes
+this line is here to show how merging works
